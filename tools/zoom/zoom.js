@@ -1,6 +1,7 @@
 /**
  * ZOOM plugin for Jquery 
  * param @author ksin39
+ * Date : 15 Aug 2013
  */
 var zoom = (function (zoom, $) {
 	
@@ -11,6 +12,7 @@ var zoom = (function (zoom, $) {
 		
 	}
 	/**
+	 * Point next element
 	 * el : element selector 
 	 * total : total count of images
 	 * count : current image count 
